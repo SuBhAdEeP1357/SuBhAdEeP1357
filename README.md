@@ -26,3 +26,121 @@ B.Tech CSE (IoT-CS-BCT) Student | Software Developer | AI Enthusiast
 - 📚 I enjoy learning new technologies and continuously improving my programming and problem-solving skills
 
 ---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Learning-AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Intermediate-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-In%20Progress-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Learning-purple?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧮 Arithmetic Calculator
+
+A menu-driven arithmetic calculator developed in **C** using modular programming.
+
+**Tech Stack:** C
+
+🔗 **Repository:**  
+<a href="https://github.com/SuBhAdEeP1357/Arithmetic-Calculator">View Project →</a>
+
+</td>
+
+<td width="50%">
+
+### 🏎️ GT Car Racing
+
+A 2D racing game developed using **Python** and **Pygame** featuring smooth controls and gameplay.
+
+**Tech Stack:** Python, Pygame
+
+🚧 **Currently in Development**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+My personal portfolio showcasing my projects, skills, and achievements.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 **Live Demo:**  
+<a href="https://subhadeep1357.github.io/my-portfolio/">Visit Website →</a>
+
+</td>
+
+<td width="50%">
+
+### 🌍 Free Web Doctor
+
+An AI-powered healthcare web application concept where users enter symptoms to receive preliminary disease analysis and health guidance.
+
+**Tech Stack:** HTML, CSS, JavaScript, AI
+
+🚧 **Planned Project**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuBhAdEeP1357&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuBhAdEeP1357&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SuBhAdEeP1357&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuBhAdEeP1357&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://subhadeep1357.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/subhadeepadhikary/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/SuBhAdEeP1357" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
