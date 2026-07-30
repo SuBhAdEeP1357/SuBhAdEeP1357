@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋, I'm Subhadeep Adhikary
+</h1>
 
-<!--
-**SuBhAdEeP1357/SuBhAdEeP1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+B.Tech CSE (IoT-CS-BCT) Student | Software Developer | AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;B.Tech+CSE+(IoT-CS-BCT)+Student;C+%7C+Python+%7C+JavaScript;Learning+AI%2C+Cybersecurity+%26+IoT;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SuBhAdEeP1357&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
