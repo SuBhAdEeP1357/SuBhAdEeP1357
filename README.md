@@ -1,3 +1,16 @@
+<!-- =======================
+     PROFESSIONAL BANNER
+     Replace the src below after creating your custom banner.
+     Example:
+     https://raw.githubusercontent.com/SuBhAdEeP1357/SuBhAdEeP1357/main/assets/github-banner.png
+======================= -->
+
+<!--
+<p align="center">
+  <img src="YOUR_BANNER_URL_HERE" alt="Subhadeep Adhikary Banner" width="100%" />
+</p>
+-->
+
 <h1 align="center">
   Hi 👋, I'm Subhadeep Adhikary
 </h1>
@@ -108,10 +121,14 @@ An AI-powered healthcare web application concept where users can enter symptoms 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuBhAdEeP1357&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuBhAdEeP1357&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<!--
+Temporarily disabled because the public github-readme-stats service is unavailable.
+Re-enable after self-hosting or when the service resumes.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuBhAdEeP1357&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuBhAdEeP1357&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SuBhAdEeP1357&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -126,21 +143,23 @@ An AI-powered healthcare web application concept where users can enter symptoms 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://subhadeep1357.github.io/my-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/subhadeepadhikary/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://subhadeep1357.github.io/my-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 
-  <a href="https://github.com/SuBhAdEeP1357" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://www.linkedin.com/in/subhadeepadhikary/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-  <a href="mailto:iot23.subhadeepadhikary.31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<a href="https://github.com/SuBhAdEeP1357" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:iot23.subhadeepadhikary.31@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </p>
 
 ---
@@ -161,5 +180,5 @@ An AI-powered healthcare web application concept where users can enter symptoms 
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
