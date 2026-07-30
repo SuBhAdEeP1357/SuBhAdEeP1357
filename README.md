@@ -19,11 +19,10 @@ B.Tech CSE (IoT-CS-BCT) Student | Software Developer | AI Enthusiast
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in **Computer Science & Engineering (IoT-CS-BCT)** at **Asansol Engineering College**
-- 🌱 Currently learning **Artificial Intelligence, Cybersecurity, Data Structures & Algorithms, and Full Stack Development**
+- 🌱 Currently learning **Artificial Intelligence, Cybersecurity, Git, GitHub, Data Structures & Algorithms, and Full Stack Development**
 - 💻 Passionate about building **software applications, web projects, and AI-powered solutions**
 - 🚀 Interested in **Software Development, AI, IoT, Cybersecurity, and Open Source**
 - 🎯 Goal: To become a skilled **Software Engineer** and contribute to impactful real-world projects
 - 📚 I enjoy learning new technologies and continuously improving my programming and problem-solving skills
 
 ---
-
