@@ -19,7 +19,7 @@ B.Tech CSE (IoT-CS-BCT) Student | Software Developer | AI Enthusiast
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in **Computer Science & Engineering (IoT-CS-BCT)** at **Asansol Engineering College**
-- 🌱 Currently learning **Artificial Intelligence, Cybersecurity, Git, GitHub, Data Structures & Algorithms, and Full Stack Development**
+- 🌱 Currently learning **Artificial Intelligence, Cybersecurity, Data Structures & Algorithms, and Full Stack Development**
 - 💻 Passionate about building **software applications, web projects, and AI-powered solutions**
 - 🚀 Interested in **Software Development, AI, IoT, Cybersecurity, and Open Source**
 - 🎯 Goal: To become a skilled **Software Engineer** and contribute to impactful real-world projects
@@ -138,7 +138,7 @@ An AI-powered healthcare web application concept where users enter symptoms to r
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:iot23.subhadeepadhikary.31@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
