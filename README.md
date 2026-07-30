@@ -7,7 +7,7 @@ B.Tech CSE (IoT-CS-BCT) Student | Software Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;B.Tech+CSE+(IoT-CS-BCT)+Student;C+%7C+Python+%7C+JavaScript;Learning+AI%2C+Cybersecurity+%26+IoT;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=BTech+CSE+(IOT+CS+BCT)+Student;Full+Stack+Developer;C+%7C+Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Learning+AI%2C+Cybersecurity+%26+DSA;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
