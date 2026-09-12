@@ -1,8 +1,14 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm **Subhadeep Adhikary**
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--                       HERO / IDENTITY                          -->
+<!-- ─────────────────────────────────────────────────────────────── -->
 
-### `B.Tech CSE (IoT-CS-BCT)` · Software Developer · Cybersecurity & AI Enthusiast
+<a href="https://subhadeep1357.github.io/my-portfolio/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,55:140305,100:E50914&text=SUBHADEEP%20ADHIKARY&fontColor=FFFFFF&fontSize=56&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20CYBERSECURITY%20%7C%20AI%20%7C%20CSE&descAlignY=64&descSize=17&descColor=F5F5F5&animation=fadeIn" alt="Subhadeep Adhikary">
+</a>
+
+<h3>Computer Science & Engineering • IoT • Cybersecurity • Software Development</h3>
 
 <p>
   <a href="https://subhadeep1357.github.io/my-portfolio/">
@@ -16,52 +22,55 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SuBhAdEeP1357&label=PROFILE%20VIEWS&color=E50914&style=for-the-badge" alt="Profile views">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SuBhAdEeP1357&label=PROFILE%20VIEWS&color=E50914&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/SuBhAdEeP1357?label=FOLLOWERS&color=E50914&style=flat-square" alt="Followers">
+  <img src="https://img.shields.io/github/stars/SuBhAdEeP1357?label=TOTAL%20STARS&color=E50914&style=flat-square" alt="Stars">
+</p>
 
-<br>
-
-> **CODE · LEARN · BUILD · REPEAT**
+<p>
+  <b>CODE</b> &nbsp; / &nbsp; <b>LEARN</b> &nbsp; / &nbsp; <b>BUILD</b> &nbsp; / &nbsp; <b>REPEAT</b>
+</p>
 
 </div>
 
 ---
 
+## `01` // PROFILE
+
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-## `01` // ABOUT ME
+### Hi, I'm Subhadeep 👋
 
-🎓 **B.Tech Computer Science & Engineering (IoT-CS-BCT)** student at **Asansol Engineering College**.
+I'm a **B.Tech Computer Science & Engineering (IoT-CS-BCT)** student at **Asansol Engineering College** focused on building practical software and strengthening my engineering fundamentals.
 
-💻 I enjoy building practical software and improving my foundations in **programming, software development, web development, and problem solving**.
+I enjoy working across **software development, web technologies, cybersecurity, networking, AI, databases, and problem solving**.
 
-🔐 I'm especially interested in **Cybersecurity, Network Security, Secure Software Development, AI, IoT, and Full-Stack Development**.
+My approach is simple:
 
-🚀 I learn by building real projects, documenting what I learn, and turning small experiments into stronger engineering skills.
+> **Learn the fundamentals → build real projects → analyze what worked → improve → repeat.**
 
-🎯 **Long-term goal:** grow into a software engineer who can build applications that are **useful, reliable, secure, and maintainable**.
+I'm currently growing toward becoming a **strong software engineer** who can design, build, and secure useful real-world applications.
 
 </td>
-<td width="40%" valign="top">
 
-## `NOW`
+<td width="38%" valign="top">
 
-🟢 **Learning**
-<br>DSA · Full-Stack · AI
+### QUICK STATUS
 
-🔴 **Exploring**
-<br>Cybersecurity · Network Security
+```text
+● Learning        ███████████████░░  90%
+● Building        ██████████████░░░  85%
+● Problem Solving █████████████░░░░  80%
+● Exploring AI    ███████████░░░░░░  70%
+```
 
-🔵 **Building**
-<br>Practical software projects
+**Primary Areas**
 
-🟡 **Improving**
-<br>Problem solving · Git · GitHub
-
-<br>
-
-> *Small projects. Better skills. Bigger possibilities.*
+`Software` `Web` `Security`  
+`Networking` `AI` `IoT`
 
 </td>
 </tr>
@@ -69,280 +78,271 @@
 
 ---
 
-## `02` // SKILLS
+## `02` // WHAT I BUILD
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### 💻 PROGRAMMING
+### 💻
+**SOFTWARE**
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" alt="C">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript">
-</p>
-
-`C` · `Python` · `Java` · `JavaScript`
+Practical applications, programming fundamentals, and clean implementation.
 
 </td>
-<td width="34%" valign="top">
+<td align="center" width="25%">
 
-### 🌐 WEB DEVELOPMENT
+### 🌐
+**WEB**
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="Front-End Development">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Full-Stack Development">
-</p>
-
-`HTML` · `CSS` · `Front-End Development`
-<br>`Responsive Web Design` · `Full-Stack Development`
+Responsive interfaces and full-stack development fundamentals.
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### 🗄️ DATA & CS
+### 🛡️
+**SECURITY**
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="SQL">
-  <img src="https://img.icons8.com/color/48/database.png" width="42" alt="DBMS">
-  <img src="https://img.icons8.com/color/48/algorithm.png" width="42" alt="DSA">
-  <img src="https://img.icons8.com/color/48/idea.png" width="42" alt="Problem Solving">
-</p>
-
-`SQL` · `DBMS` · `DSA` · `Problem Solving`
+Network security, intrusion detection, and secure coding.
 
 </td>
-</tr>
+<td align="center" width="25%">
 
-<tr>
-<td width="33%" valign="top">
+### 🤖
+**AI / TECH**
 
-### 🌐 NETWORKING & SECURITY
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/network.png" width="42" alt="Computer Networking">
-  <img src="https://img.icons8.com/color/48/security-shield-green.png" width="42" alt="Cybersecurity">
-</p>
-
-`Computer Networking`
-<br>`Network Security` · `Cybersecurity`
-
-</td>
-<td width="34%" valign="top">
-
-### 🧰 TOOLS & WORKFLOW
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" alt="VS Code">
-  <img src="https://img.icons8.com/color/48/fl-studio.png" width="42" alt="FL Studio">
-</p>
-
-`Git` · `GitHub` · `Visual Studio Code`
-<br>`FL Studio`
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ THE 18-SKILL SET
-
-<p align="center">
-  <img src="https://img.shields.io/badge/18%20Skills-E50914?style=for-the-badge&labelColor=111111" alt="18 skills">
-</p>
-
-`HTML` `CSS` `DBMS` `Networking`
-<br>`Git` `GitHub` `Front-End`
-<br>`Responsive Web Design` `VS Code`
-<br>`FL Studio` `Python` `DSA`
-<br>`Problem Solving` `Java` `C`
-<br>`Full-Stack` `JavaScript` `SQL`
+Exploring AI, emerging technologies, and smarter solutions.
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>🔎 Skill breakdown</strong></summary>
+</div>
 
-| Skill | Skill | Skill |
-|---|---|---|
-| 🌐 HTML | 🎨 CSS | 🗄️ DBMS |
-| 🌐 Computer Networking | 🔧 Git | 🐙 GitHub |
-| ⚛️ Front-End Development | 📱 Responsive Web Design | 💻 VS Code |
-| 🎵 FL Studio | 🐍 Python | 🧠 DSA |
-| 💡 Problem Solving | ☕ Java | ©️ C |
-| 🧩 Full-Stack Development | 🟨 JavaScript | 🗃️ SQL |
+---
+
+## `03` // TECHNOLOGY STACK
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,java,js&perline=8" alt="C Python Java JavaScript">
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=8" alt="HTML CSS JavaScript">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Front--End%20Development-0D1117?style=for-the-badge&logo=codepen&logoColor=white" alt="Front-End Development">
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Web Design">
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-Stack Development">
+</p>
+
+### 🗄️ Data & Computer Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&perline=8" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge&logo=databricks&logoColor=white" alt="DBMS">
+  <img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA">
+  <img src="https://img.shields.io/badge/Problem%20Solving-E50914?style=for-the-badge&logo=target&logoColor=white" alt="Problem Solving">
+</p>
+
+### 🌐 Networking & Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&perline=8" alt="Git GitHub">
+  <img src="https://img.shields.io/badge/Computer%20Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networking">
+</p>
+
+### 🛠️ Development & Creative Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode&perline=8" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/FL%20Studio-0D1117?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio">
+</p>
+
+<details>
+<summary><strong>18 skills • full list</strong></summary>
+
+<br>
+
+| # | Skill | Category |
+|:--:|---|---|
+| 01 | **HTML** | Web Development |
+| 02 | **Cascading Style Sheets (CSS)** | Web Development |
+| 03 | **Database Management System (DBMS)** | Data |
+| 04 | **Computer Networking** | Networking |
+| 05 | **Git** | Version Control |
+| 06 | **GitHub** | Collaboration |
+| 07 | **Front-End Development** | Web Development |
+| 08 | **Responsive Web Design** | Web Development |
+| 09 | **Microsoft Visual Studio Code** | Development Tool |
+| 10 | **FL Studio** | Creative Tool |
+| 11 | **Python** | Programming |
+| 12 | **Data Structures & Algorithms (DSA)** | Computer Science |
+| 13 | **Problem Solving** | Computer Science |
+| 14 | **Java** | Programming |
+| 15 | **C** | Programming |
+| 16 | **Full-Stack Development** | Web Development |
+| 17 | **JavaScript** | Programming / Web |
+| 18 | **SQL** | Database |
 
 </details>
 
 ---
 
-## `03` // PROJECTS
+## `04` // FEATURED WORK
 
-<div align="center">
-
-### 🛡️ **SECURITY-FIRST. PRACTICAL. BUILT WHILE LEARNING.**
-
-</div>
+<p align="center">
+  <i>Four real repositories. Each one marks a step in the learning journey.</i>
+</p>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🛡️ Network Intrusion Detection System
+### 🛡️ 01 · NETWORK INTRUSION DETECTION
 
-`Python` `Suricata` `EVE JSON`
+**Python · Suricata · EVE JSON · Networking**
 
-A **Suricata-based NIDS** focused on network traffic monitoring, custom detection rules, EVE JSON analysis, and automated testing.
+A **Suricata-based Network Intrusion Detection System** developed during my CodeAlpha Cyber Security Internship.
 
-**Focus**
-- Network intrusion detection
-- Custom rules
+**Core work**
+- Custom detection rules
 - Traffic monitoring
 - EVE JSON analysis
+- Intrusion detection
 - Automated testing
 
-<p>
 <a href="https://github.com/SuBhAdEeP1357/CodeAlpha_NetworkIntrusionDetectionSystem">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-E50914?style=for-the-badge&logo=github&logoColor=white" alt="View project">
+  <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Open repository">
 </a>
-</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🌐 Basic Network Sniffer
+### 🌐 02 · BASIC NETWORK SNIFFER
 
-`Python` `Networking` `Packet Analysis`
+**Python · Networking · Packet Analysis**
 
-An educational network sniffer built during my CodeAlpha Cyber Security Internship for exploring packet capture and protocol-level information.
+An educational Python network sniffer built during my CodeAlpha Cyber Security Internship.
 
-**Focus**
+**Core work**
 - Live packet capture
 - Protocol analysis
 - Packet filtering
 - PCAP inspection
-- Packet information
+- Packet details
 
-<p>
 <a href="https://github.com/SuBhAdEeP1357/CodeAlpha_BasicNetworkSniffer">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-E50914?style=for-the-badge&logo=github&logoColor=white" alt="View project">
+  <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Open repository">
 </a>
-</p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🔐 Secure Coding Review
+### 🔐 03 · SECURE CODING REVIEW
 
-`Python` `Bandit` `Static Analysis`
+**Python · Bandit · Static Analysis**
 
-A secure-coding project focused on finding vulnerabilities, improving code security, and validating fixes through testing.
+A Python security-review project focused on identifying vulnerabilities and improving source-code security.
 
-**Focus**
-- Static analysis
+**Core work**
+- Static security analysis
 - Vulnerability detection
 - Secure remediation
-- Security practices
 - Regression testing
+- Secure coding practices
 
-<p>
 <a href="https://github.com/SuBhAdEeP1357/CodeAlpha_SecureCodingReview">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-E50914?style=for-the-badge&logo=github&logoColor=white" alt="View project">
+  <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Open repository">
 </a>
-</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🧮 Arithmetic Calculator
+### 🧮 04 · ARITHMETIC CALCULATOR
 
-`C` `Functions` `Modular Programming`
+**C · Functions · Modular Programming**
 
-A menu-driven C calculator created to strengthen programming fundamentals, control flow, functions, and modular design.
+A menu-driven calculator built in **C** to practice core programming and modular design.
 
-**Focus**
-- Arithmetic operations
+**Core work**
 - Functions
-- Menu-driven logic
+- Arithmetic operations
 - User input
+- Menu-driven flow
 - Modular programming
 
-<p>
 <a href="https://github.com/SuBhAdEeP1357/Arithmetic-Calculator">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-E50914?style=for-the-badge&logo=github&logoColor=white" alt="View project">
+  <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Open repository">
 </a>
-</p>
 
 </td>
+
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/SuBhAdEeP1357?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white" alt="All repositories">
-</a>
-
-</div>
-
 ---
 
-## `04` // GITHUB PULSE
+## `05` // PROJECT SIGNAL
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuBhAdEeP1357&show_icons=true&hide_border=true&bg_color=00000000&title_color=E50914&icon_color=E50914&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuBhAdEeP1357&layout=compact&hide_border=true&bg_color=00000000&title_color=E50914&text_color=FFFFFF" alt="Top Languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=SuBhAdEeP1357&hide_border=true&background=00000000&ring=E50914&fire=E50914&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak">
+| | **Cybersecurity** | **Networking** | **Programming** | **Web / Software** |
+|:---:|:---:|:---:|:---:|:---:|
+| **Projects** | `03` | `02` | `01` | `Growing` |
+| **Languages / Tools** | `Python` | `Python` | `C` | `Expanding` |
 
 </div>
 
+> **My repositories are not just a collection of code. They are snapshots of what I'm learning, testing, and improving.**
+
 ---
 
-## `05` // EDUCATION & CERTIFICATIONS
+## `06` // EDUCATION
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="18%" align="center">🎓</td>
+<td>
 
-### 🎓 Education
+### B.Tech in Computer Science & Engineering
+**Asansol Engineering College (AEC)** • `2022 — 2026`
 
-**B.Tech — Computer Science & Engineering (IoT-CS-BCT)**
-<br>Asansol Engineering College
-<br>`2022 – 2026`
-
-**Higher Secondary — Science**
-<br>`2020 – 2022`
-
-**Secondary — West Bengal Board**
-<br>`2010 – 2020`
+IoT-CS-BCT track with focus areas spanning computer science, software development, IoT, and cybersecurity.
 
 </td>
-<td width="45%" valign="top">
+</tr>
+<tr>
+<td width="18%" align="center">📚</td>
+<td>
 
-### 🏅 Certifications
+### Higher Secondary (Class XII)
+**Science Stream** • `2020 — 2022`
 
-**🤖 Gen AI Tools**
-<br>FutureSkills Prime / Nasscom IT-ITeS SSC · `2026`
+</td>
+</tr>
+<tr>
+<td width="18%" align="center">📖</td>
+<td>
 
-**🛡️ Cybersecurity Analyst Job Simulation**
-<br>Tata / Forage · `2025`
-
-**🔐 Foundations of Cybersecurity**
-<br>Google / Coursera · `2024`
+### Secondary (Class X)
+**West Bengal Board of Secondary Education** • `2010 — 2020`
 
 </td>
 </tr>
@@ -350,65 +350,201 @@ A menu-driven C calculator created to strengthen programming fundamentals, contr
 
 ---
 
-## `06` // CURRENT FOCUS
+## `07` // CERTIFICATIONS
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 Gen AI Tools
+
+**FutureSkills Prime / Nasscom IT-ITeS SSC**
+
+`Aug 07, 2026`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Cybersecurity Analyst Job Simulation
+
+**Tata • Forage**
+
+`Jul 17, 2025`
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Foundations of Cybersecurity
+
+**Google • Coursera**
+
+`Jan 03, 2024`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `08` // CURRENT FOCUS
 
 <div align="center">
 
-| 💻 Software | 🔐 Security | 🤖 AI | 🧠 DSA | 🌐 Full-Stack |
-|:---:|:---:|:---:|:---:|:---:|
-| Build practical apps | Network security | Explore useful AI | Think better | Build complete products |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💻 Software Engineering
+
+Building practical software and improving development fundamentals.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Cybersecurity
+
+Learning network security, intrusion detection, and secure development.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Artificial Intelligence
+
+Exploring AI concepts, tools, and practical applications.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 DSA
+
+Strengthening algorithms, data structures, logic, and problem solving.
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Full Stack
+
+Growing from front-end fundamentals toward complete web applications.
+
+</td>
+<td width="33%" valign="top">
+
+### 🌍 Open Source
+
+Learning how public software projects are developed with Git and GitHub.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## `07` // LEARNING LOOP
+## `09` // GITHUB ACTIVITY
 
 <div align="center">
 
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-REPEAT
-```
-
-### **TURNING IDEAS INTO IMPACT**
-
-</div>
-
----
-
-## `08` // CONNECT
-
-<div align="center">
-
-<a href="mailto:subhadeep1357@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/subhadeepadhikary/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://github.com/SuBhAdEeP1357">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SuBhAdEeP1357&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </a>
 <a href="https://github.com/SuBhAdEeP1357">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://subhadeep1357.github.io/my-portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuBhAdEeP1357&layout=compact&hide_border=true&bg_color=0D1117&title_color=E50914&text_color=FFFFFF&langs_count=8" alt="Top Languages">
 </a>
 
 <br><br>
 
-**Good code. Better thinking. Stronger tomorrow.**
+<a href="https://github.com/SuBhAdEeP1357">
+  <img src="https://streak-stats.demolab.com?user=SuBhAdEeP1357&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak">
+</a>
 
-<br>
+</div>
 
-`CODE / LEARN / BUILD / REPEAT`
+---
+
+## `10` // CONTRIBUTION FLOW
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuBhAdEeP1357&bg_color=0D1117&color=FFFFFF&line=E50914&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph">
+
+</div>
+
+---
+
+## `11` // LEARNING PATH
+
+```text
+     PROGRAMMING
+          │
+          ▼
+   PROBLEM SOLVING
+          │
+          ▼
+        DSA
+          │
+          ▼
+ SOFTWARE DEVELOPMENT
+      │         │
+      ▼         ▼
+   WEB DEV   DATABASES
+      │
+      ▼
+ CYBERSECURITY
+      │
+      ├──────────────► NETWORK SECURITY
+      │
+      └──────────────► SECURE SOFTWARE
+          │
+          ▼
+     ARTIFICIAL
+   INTELLIGENCE
+          │
+          ▼
+   REAL-WORLD PROJECTS
+          │
+          ▼
+   BETTER ENGINEERING
+```
+
+---
+
+## `12` // MY PRINCIPLES
+
+<div align="center">
+
+> **BUILD SOMETHING REAL.**  
+> **UNDERSTAND WHY IT WORKS.**  
+> **MAKE IT BETTER.**  
+> **KEEP LEARNING.**
+
+</div>
+
+---
+
+## `13` // CONNECT
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/subhadeepadhikary/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/SuBhAdEeP1357">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://subhadeep1357.github.io/my-portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+<br><br>
+
+### `TURNING IDEAS INTO IMPACT`
+
+**CODE / LEARN / BUILD / REPEAT**
 
 </div>
