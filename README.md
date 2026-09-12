@@ -1,242 +1,278 @@
 <div align="center">
 
-# Hi 👋, I'm Subhadeep Adhikary
+# <span style="color:#ef233c;">SUBHADEEP</span> ADHIKARY
 
-### B.Tech CSE (IoT-CS-BCT) Student · Software Developer · Cybersecurity & AI Enthusiast
+### `B.Tech CSE (IoT-CS-BCT)` · Software Developer · Cybersecurity & AI Enthusiast
 
 <p>
   <a href="https://github.com/SuBhAdEeP1357">
-    <img src="https://img.shields.io/badge/GitHub-SuBhAdEeP1357-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-SuBhAdEeP1357-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/subhadeepadhikary/">
-    <img src="https://img.shields.io/badge/LinkedIn-Subhadeep%20Adhikary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Subhadeep_Adhikary-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://subhadeep1357.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF2D2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-ef233c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SuBhAdEeP1357&label=Profile%20Views&color=FF2D2D&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=SuBhAdEeP1357&label=PROFILE%20VIEWS&color=ef233c&style=for-the-badge" alt="Profile views">
 </p>
 
-> **Code · Learn · Build · Repeat**
+> **CODE · LEARN · BUILD · REPEAT**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` · ABOUT ME
 
-I'm a **B.Tech Computer Science & Engineering (IoT-CS-BCT)** student at **Asansol Engineering College** with a growing focus on **software development, cybersecurity, networking, artificial intelligence, and full-stack development**.
+🎓 **Computer Science & Engineering student** at **Asansol Engineering College**, specializing in **IoT, Cyber Security, and Blockchain Technology**.
 
-I enjoy learning by building practical projects, strengthening my programming fundamentals, and turning concepts into working applications. My GitHub currently reflects that journey through projects in **C, Python, secure coding, and network security**.
+💻 I enjoy building practical software, strengthening programming fundamentals, and turning ideas into working applications.
 
-My long-term goal is to become a **strong software engineer** who can build applications that are practical, reliable, maintainable, and secure.
+🔐 My current technical interests include **Cybersecurity, Network Security, Secure Software Development, Artificial Intelligence, IoT, and Full-Stack Development**.
 
----
+🧠 I am continuously improving my **Data Structures & Algorithms, problem-solving, programming, and software-development skills** through hands-on practice.
 
-## 🧠 What I Work With
-
-### Programming
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-### Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-111111?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Web Design">
-  <img src="https://img.shields.io/badge/Front--End%20Development-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Front-End Development">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-111111?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-Stack Development">
-</p>
-
-### Databases & Computer Science
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/DBMS-111111?style=for-the-badge&logo=databricks&logoColor=white" alt="DBMS">
-  <img src="https://img.shields.io/badge/DSA-111111?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA">
-  <img src="https://img.shields.io/badge/Problem%20Solving-111111?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving">
-</p>
-
-### Networking, Security & Tools
-<p>
-  <img src="https://img.shields.io/badge/Computer%20Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networking">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-</p>
-
-### Other Interests
-<p>
-  <img src="https://img.shields.io/badge/FL%20Studio-FF6A00?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio">
-</p>
+🚀 My long-term goal is to grow into a **strong Software Engineer** who builds reliable, secure, and useful real-world solutions.
 
 ---
 
-## 🔐 Current Areas of Interest
+## `02` · TECHNICAL SKILLS
 
-- Cybersecurity & Network Security
-- Secure Software Development
-- Artificial Intelligence & Machine Learning
-- Internet of Things (IoT)
-- Full-Stack Development
-- Data Structures & Algorithms
-- Open Source
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/Front--End%20Development-111111?style=for-the-badge&logo=googlechrome&logoColor=ef233c" alt="Front-End Development">
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-111111?style=for-the-badge&logo=css3&logoColor=ef233c" alt="Responsive Web Design">
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-111111?style=for-the-badge&logo=code&logoColor=ef233c" alt="Full-Stack Development">
+</p>
+
+### 🗄️ Databases & Computer Science
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQL">
+  <img src="https://img.shields.io/badge/DBMS-111111?style=for-the-badge&logo=databricks&logoColor=ef233c" alt="DBMS">
+  <img src="https://img.shields.io/badge/DSA-111111?style=for-the-badge&logo=thealgorithms&logoColor=ef233c" alt="DSA">
+  <img src="https://img.shields.io/badge/Problem%20Solving-111111?style=for-the-badge&logo=leetcode&logoColor=F89F1B" alt="Problem Solving">
+  <img src="https://img.shields.io/badge/Computer%20Networking-111111?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Computer Networking">
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+  <img src="https://img.shields.io/badge/FL%20Studio-111111?style=for-the-badge&logo=flstudio&logoColor=F28C28" alt="FL Studio">
+</p>
+
+### 🔐 Security Technologies Used in Projects
+
+<p>
+  <img src="https://img.shields.io/badge/Suricata-111111?style=for-the-badge&logo=suricata&logoColor=ef233c" alt="Suricata">
+  <img src="https://img.shields.io/badge/Bandit-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Bandit">
+  <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge&logo=shieldsdotio&logoColor=ef233c" alt="Network Security">
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## `03` · FEATURED PROJECTS
 
-My current GitHub portfolio contains four public projects spanning **programming fundamentals, Python development, secure coding, and network security**.
+> Four public projects currently represent my hands-on work across **programming, secure coding, network analysis, and intrusion detection**.
 
-### 🛡️ Network Intrusion Detection System
-**Python · Suricata · EVE JSON**
-
-A Suricata-based Network Intrusion Detection System developed as part of my CodeAlpha Cyber Security Internship.
-
-**Focus areas**
-- Network traffic monitoring
-- Custom detection rules
-- EVE JSON analysis
-- Automated testing
-- Intrusion detection concepts
-
-<a href="https://github.com/SuBhAdEeP1357/CodeAlpha_NetworkIntrusionDetectionSystem">
-  **View Repository →**
-</a>
-
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 Basic Network Sniffer
-**Python**
 
-An educational network sniffer developed during my CodeAlpha Cyber Security Internship.
+Educational Python network sniffer built during my **CodeAlpha Cyber Security Internship**.
 
-**Focus areas**
+**Focus**
 - Live packet capture
 - Protocol analysis
 - Packet filtering
 - PCAP inspection
 - Packet-level information
 
-<a href="https://github.com/SuBhAdEeP1357/CodeAlpha_BasicNetworkSniffer">
-  **View Repository →**
-</a>
+**Stack**
 
----
+`Python`
+
+<p>
+<a href="https://github.com/SuBhAdEeP1357/CodeAlpha_BasicNetworkSniffer">
+<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-ef233c?style=for-the-badge&logo=github&logoColor=white" alt="View Basic Network Sniffer">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🔐 Secure Coding Review
-**Python · Bandit**
 
-A secure coding review project focused on static analysis and identifying common security issues in Python code.
+Python-based secure coding review project created for my **CodeAlpha Cyber Security Internship**.
 
-**Focus areas**
+**Focus**
 - Static security analysis
-- Vulnerability identification
-- Secure coding practices
-- Remediation
+- Vulnerability detection
+- Secure remediation
+- Security best practices
 - Regression testing
 
-<a href="https://github.com/SuBhAdEeP1357/CodeAlpha_SecureCodingReview">
-  **View Repository →**
-</a>
+**Stack**
 
----
+`Python` `Bandit`
+
+<p>
+<a href="https://github.com/SuBhAdEeP1357/CodeAlpha_SecureCodingReview">
+<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-ef233c?style=for-the-badge&logo=github&logoColor=white" alt="View Secure Coding Review">
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Network Intrusion Detection System
+
+A **Suricata-based NIDS** exploring network traffic monitoring, custom rules, EVE JSON analysis, and automated testing.
+
+**Focus**
+- Intrusion detection
+- Custom detection rules
+- Network traffic monitoring
+- EVE JSON analysis
+- Automated testing
+
+**Stack**
+
+`Python` `Suricata` `EVE JSON`
+
+<p>
+<a href="https://github.com/SuBhAdEeP1357/CodeAlpha_NetworkIntrusionDetectionSystem">
+<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-ef233c?style=for-the-badge&logo=github&logoColor=white" alt="View NIDS">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🧮 Arithmetic Calculator
-**C**
 
-A menu-driven calculator built in C using a modular programming approach.
+A menu-driven **C** application built with a modular programming approach.
 
-**Focus areas**
-- Functions
+**Focus**
 - Arithmetic operations
+- Functions
 - Control flow
 - User input handling
 - Modular programming
 
+**Stack**
+
+`C`
+
+<p>
 <a href="https://github.com/SuBhAdEeP1357/Arithmetic-Calculator">
-  **View Repository →**
+<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-ef233c?style=for-the-badge&logo=github&logoColor=white" alt="View Arithmetic Calculator">
 </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Project Snapshot
+## `04` · EDUCATION
 
-| Project | Technology | Area |
+### 🎓 B.Tech in Computer Science & Engineering
+**Asansol Engineering College (AEC)**
+
+**Program:** IoT · Cyber Security · Blockchain Technology
+
+---
+
+## `05` · CERTIFICATIONS
+
+| Certification | Organization | Date |
 |---|---|---|
-| 🛡️ Network Intrusion Detection System | Python, Suricata | Cybersecurity |
-| 🌐 Basic Network Sniffer | Python | Networking |
-| 🔐 Secure Coding Review | Python, Bandit | Secure Coding |
-| 🧮 Arithmetic Calculator | C | Programming Fundamentals |
+| **Gen AI Tools** | Futureskills Prime · Nasscom | Aug 2026 |
+| **Cybersecurity Analyst Job Simulation** | Tata · Forage | Jul 2025 |
+| **Foundations of Cybersecurity** | Google · Coursera | Jan 2024 |
 
 ---
 
-## 🎓 Education
+## `06` · CURRENT FOCUS
 
-**B.Tech in Computer Science & Engineering (IoT-CS-BCT)**  
-Asansol Engineering College  
-**2022 – 2026**
+<table>
+<tr>
+<td width="50%">
 
-Relevant areas of study and interest:
-- Computer Programming
-- Data Structures & Algorithms
-- Database Management Systems
-- Computer Networking
-- Internet of Things
-- Cybersecurity
-- Software Development
+### 💻 Software Development
+Building practical applications while improving clean coding, debugging, and development fundamentals.
 
----
+</td>
+<td width="50%">
 
-## 📜 Certifications
+### 🔐 Cybersecurity
+Exploring network security, intrusion detection, secure coding, and security-focused development.
 
-### Gen AI Tools
-**FutureSkills Prime · Nasscom IT-ITeS SSC**  
-Completed **August 7, 2026**
+</td>
+</tr>
 
-### Cybersecurity Analyst Job Simulation
-**Tata · Forage**  
-Completed **July 17, 2025**
+<tr>
+<td width="50%">
 
-### Foundations of Cybersecurity
-**Google · Coursera**  
-Completed **January 3, 2024**
+### 🤖 Artificial Intelligence
+Learning AI concepts and exploring practical applications that can solve real problems.
 
----
+</td>
+<td width="50%">
 
-## 📈 GitHub
+### 🧠 DSA & Problem Solving
+Strengthening algorithms, data structures, logical thinking, and coding consistency.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuBhAdEeP1357&show_icons=true&theme=dark&hide_border=true&title_color=FF2D2D&icon_color=FF2D2D&text_color=FFFFFF&bg_color=0D1117" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuBhAdEeP1357&layout=compact&theme=dark&hide_border=true&title_color=FF2D2D&text_color=FFFFFF&bg_color=0D1117" height="180" alt="Top Languages">
-</p>
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SuBhAdEeP1357&theme=dark&hide_border=true&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D" alt="GitHub Streak">
-</p>
+<tr>
+<td width="50%">
 
----
+### 🌐 Full-Stack Development
+Improving modern web-development skills across front-end, back-end, databases, and deployment concepts.
 
-## 🎯 Current Focus
+</td>
+<td width="50%">
 
-| Area | Current Direction |
-|---|---|
-| 💻 Software Development | Building practical projects and strengthening development fundamentals |
-| 🔐 Cybersecurity | Network security, secure coding, and intrusion detection |
-| 🤖 Artificial Intelligence | Learning core AI concepts and practical applications |
-| 🧠 DSA & Problem Solving | Improving algorithmic thinking and coding consistency |
-| 🌐 Full-Stack Development | Building responsive and modern web applications |
-| 🌍 Open Source | Learning how to contribute to real-world projects |
+### 🌍 Open Source
+Learning how professional projects are structured and gradually working toward meaningful contributions.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧭 Learning Journey
+## `07` · LEARNING JOURNEY
 
 ```text
 Programming Fundamentals
@@ -249,9 +285,7 @@ Software Development
         ↓
 Web Development
         ↓
-Networking
-        ↓
-Cybersecurity
+Cybersecurity & Network Security
         ↓
 Artificial Intelligence
         ↓
@@ -260,24 +294,50 @@ Real-World Projects
 Open Source
 ```
 
-> **Keep learning. Keep building. Keep improving.**
+> **Learning → Building → Improving → Repeating**
 
 ---
 
-## 🤝 Let's Connect
+## `08` · GITHUB
+
+<p align="center">
+  <a href="https://github.com/SuBhAdEeP1357?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-ef233c?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  </a>
+  <a href="https://github.com/SuBhAdEeP1357">
+    <img src="https://img.shields.io/badge/VISIT%20MY%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+</p>
+
+<p align="center">
+  <i>Building in public. Learning one project at a time.</i>
+</p>
+
+---
+
+## `09` · CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subhadeepadhikary/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/SuBhAdEeP1357">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://subhadeep1357.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-FF2D2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ef233c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:subhadeep1357@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/SuBhAdEeP1357">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
-<p align="center">
-  <sub>Built with curiosity, consistency, and a passion for technology.</sub>
-</p>
+---
+
+<div align="center">
+
+### <span style="color:#ef233c;">TURNING IDEAS INTO IMPACT</span>
+
+`CODE / LEARN / BUILD / REPEAT`
+
+</div>
