@@ -1,87 +1,140 @@
-<!-- =======================
-     PROFESSIONAL BANNER
-     Replace the src below after creating your custom banner.
-     Example:
-     https://raw.githubusercontent.com/SuBhAdEeP1357/SuBhAdEeP1357/main/assets/github-banner.png
-======================= -->
-
-<!--
-<p align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="Subhadeep Adhikary Banner" width="100%" />
-</p>
--->
+<!-- =========================================================
+     SUBHADEEP ADHIKARY | GITHUB PROFILE README
+     ========================================================= -->
 
 <h1 align="center">
   Hi 👋, I'm Subhadeep Adhikary
 </h1>
 
 <h3 align="center">
-  B.Tech CSE (IoT-CS-BCT) Student | Software Developer | AI Enthusiast
+  B.Tech CSE (IoT-CS-BCT) Student • Software Developer • Cybersecurity & AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=BTech+CSE+(IoT-CS-BCT)+Student;Aspiring+Full+Stack+Developer;C+%7C+Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Learning+AI%2C+Cybersecurity+%26+DSA;Always+Learning+Something+New" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(IoT-CS-BCT)+Student;Aspiring+Software+Engineer;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+JavaScript;Cybersecurity+%7C+AI+%7C+DSA;Building+Projects+and+Learning+Every+Day"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SuBhAdEeP1357&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=SuBhAdEeP1357&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering (IoT-CS-BCT)** at **Asansol Engineering College**
-- 🌱 Currently learning **Artificial Intelligence, Cybersecurity, Data Structures & Algorithms, and Full Stack Development**
-- 💻 Passionate about building **software applications, web applications, and AI-powered solutions**
-- 🚀 Interested in **Software Development, Artificial Intelligence, IoT, Cybersecurity, and Open Source**
-- 🎯 Goal: To become a skilled **Software Engineer** and contribute to impactful real-world projects
-- 📚 I enjoy learning new technologies and continuously improving my programming and problem-solving skills
+🎓 I'm a **B.Tech Computer Science & Engineering (IoT-CS-BCT)** student at **Asansol Engineering College**.
+
+💻 I enjoy building practical software projects and exploring how technology can be used to solve real-world problems.
+
+🔐 My current interests include **Cybersecurity, Secure Software Development, Artificial Intelligence, IoT, and Software Engineering**.
+
+🚀 I am continuously improving my skills in **programming, problem solving, Data Structures & Algorithms, web development, and cybersecurity**.
+
+🎯 My goal is to grow into a **strong Software Engineer** capable of designing, developing, testing, and securing real-world applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Programming & Development
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
+### Cybersecurity & Security Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-AI-blue?style=for-the-badge" alt="Learning AI" />
-  <img src="https://img.shields.io/badge/Learning-Cybersecurity-success?style=for-the-badge" alt="Learning Cybersecurity" />
-  <img src="https://img.shields.io/badge/DSA-In%20Progress-orange?style=for-the-badge" alt="DSA In Progress" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Learning-purple?style=for-the-badge" alt="Learning Full Stack" />
+
+<img src="https://img.shields.io/badge/Suricata-EF2D5E?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata" />
+
+<img src="https://img.shields.io/badge/Bandit-333333?style=for-the-badge&logo=python&logoColor=white" alt="Bandit" />
+
+<img src="https://img.shields.io/badge/Network%20Security-0A66C2?style=for-the-badge&logo=shield&logoColor=white" alt="Network Security" />
+
+</p>
+
+### Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-6A5ACD?style=for-the-badge" alt="Artificial Intelligence" />
+
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-DC143C?style=for-the-badge" alt="Cybersecurity" />
+
+<img src="https://img.shields.io/badge/DSA-In%20Progress-FF8C00?style=for-the-badge" alt="DSA" />
+
+<img src="https://img.shields.io/badge/Full%20Stack-Learning-8A2BE2?style=for-the-badge" alt="Full Stack" />
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+Here are some of the projects I have built while strengthening my programming, cybersecurity, and software development skills.
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧮 Arithmetic Calculator
+## 🌐 Basic Network Sniffer
 
-A menu-driven arithmetic calculator developed in **C** using modular programming.
+A Python-based educational network sniffer developed as part of my **CodeAlpha Cyber Security Internship**.
 
-**Tech Stack:** C
+The project focuses on **live packet capture, protocol analysis, PCAP inspection, packet filtering, and detailed packet information**.
+
+### 🔧 Tech Stack
+
+`Python`
+
+### 📌 Key Areas
+
+- Live packet capture
+- Network protocol analysis
+- Packet filtering
+- PCAP inspection
+- Packet details and analysis
+- CSV-based data handling
 
 🔗 **Repository:**  
-<a href="https://github.com/SuBhAdEeP1357/Arithmetic-Calculator">View Project →</a>
+<a href="https://github.com/SuBhAdEeP1357/CodeAlpha_BasicNetworkSniffer">
+View Project →
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏎️ GT Car Racing
+## 🔐 Secure Coding Review
 
-A 2D racing game developed using **Python** and **Pygame** featuring smooth controls and engaging gameplay.
+A Python-based **secure coding review and static analysis project** developed for my **CodeAlpha Cyber Security Internship**.
 
-**Tech Stack:** Python, Pygame
+The project focuses on identifying potential security vulnerabilities and applying secure coding practices through automated analysis and regression testing.
 
-🚧 **Currently in Development**
+### 🔧 Tech Stack
+
+`Python` `Bandit`
+
+### 📌 Key Areas
+
+- Static security analysis
+- Vulnerability identification
+- Secure remediation
+- Regression testing
+- Security-focused code review
+
+🔗 **Repository:**  
+<a href="https://github.com/SuBhAdEeP1357/CodeAlpha_SecureCodingReview">
+View Project →
+</a>
 
 </td>
 
@@ -89,28 +142,58 @@ A 2D racing game developed using **Python** and **Pygame** featuring smooth cont
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Portfolio Website
+## 🛡️ Network Intrusion Detection System
 
-My personal portfolio showcasing my projects, technical skills, and achievements.
+A **Suricata-based Network Intrusion Detection System (NIDS)** created as part of my **CodeAlpha Cyber Security Internship**.
 
-**Tech Stack:** HTML, CSS, JavaScript
+The project focuses on network traffic monitoring, custom detection rules, EVE JSON analysis, and automated security testing.
 
-🔗 **Live Demo:**  
-<a href="https://subhadeep1357.github.io/my-portfolio/">Visit Website →</a>
+### 🔧 Tech Stack
+
+`Python` `Suricata` `EVE JSON`
+
+### 📌 Key Areas
+
+- Intrusion detection
+- Custom detection rules
+- EVE JSON analysis
+- Network traffic monitoring
+- Automated testing
+
+🔗 **Repository:**  
+<a href="https://github.com/SuBhAdEeP1357/CodeAlpha_NetworkIntrusionDetectionSystem">
+View Project →
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌍 Free Web Doctor
+## 🧮 Arithmetic Calculator
 
-An AI-powered healthcare web application concept where users can enter symptoms to receive preliminary disease analysis and health guidance.
+A menu-driven arithmetic calculator developed in **C** using a modular programming approach.
 
-**Tech Stack:** HTML, CSS, JavaScript, AI
+This project helped strengthen my understanding of **functions, program structure, user input, arithmetic operations, and modular programming concepts**.
 
-🚧 **Concept Project**
+### 🔧 Tech Stack
+
+`C`
+
+### 📌 Key Areas
+
+- Arithmetic operations
+- Modular programming
+- Menu-driven interface
+- Functions
+- User input handling
+- Beginner-friendly C programming
+
+🔗 **Repository:**  
+<a href="https://github.com/SuBhAdEeP1357/Arithmetic-Calculator">
+View Project →
+</a>
 
 </td>
 
@@ -121,64 +204,28 @@ An AI-powered healthcare web application concept where users can enter symptoms 
 
 ## 📊 GitHub Analytics
 
-<!--
-Temporarily disabled because the public github-readme-stats service is unavailable.
-Re-enable after self-hosting or when the service resumes.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuBhAdEeP1357&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuBhAdEeP1357&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
--->
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SuBhAdEeP1357&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=SuBhAdEeP1357&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuBhAdEeP1357&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://subhadeep1357.github.io/my-portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://www.linkedin.com/in/subhadeepadhikary/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/SuBhAdEeP1357" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="mailto:iot23.subhadeepadhikary.31@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SuBhAdEeP1357&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚀 Building real-world software projects
-- 🌐 Learning modern Full Stack Development
-- 🤖 Exploring Artificial Intelligence
-- 🔐 Learning Cybersecurity and Secure Software Development
-- 📚 Strengthening Data Structures & Algorithms
-- 🌱 Contributing to Open Source
-
----
-
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+```text
+Software Development      ███████████████████░░  Learning
+Cybersecurity             ██████████████████░░░  Learning
+Artificial Intelligence   ████████████████░░░░░  Exploring
+Data Structures & Algo    ███████████████░░░░░░  Improving
+Full Stack Development    ██████████████░░░░░░░  Learning
+Open Source               ████████████░░░░░░░░░  Exploring
