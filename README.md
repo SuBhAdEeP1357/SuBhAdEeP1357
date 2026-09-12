@@ -7,12 +7,12 @@
 </h1>
 
 <h3 align="center">
-  B.Tech CSE (IoT-CS-BCT) Student • Software Developer • Cybersecurity & AI Enthusiast
+  B.Tech CSE (IoT-CS-BCT) Student | Software Developer | Cybersecurity & AI Enthusiast
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(IoT-CS-BCT)+Student;Aspiring+Software+Engineer;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+JavaScript;Cybersecurity+%7C+AI+%7C+DSA;Building+Projects+and+Learning+Every+Day"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(IoT-CS-BCT)+Student;Aspiring+Software+Engineer;C+%7C+Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Cybersecurity+%7C+Artificial+Intelligence+%7C+DSA;Building+Projects+and+Learning+Every+Day"
     alt="Typing SVG"
   />
 </p>
@@ -24,117 +24,155 @@
   />
 </p>
 
+<p align="center">
+  <a href="https://github.com/SuBhAdEeP1357">
+    <img src="https://img.shields.io/github/followers/SuBhAdEeP1357?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/SuBhAdEeP1357?tab=repositories">
+    <img src="https://img.shields.io/github/stars/SuBhAdEeP1357?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 🎓 I'm a **B.Tech Computer Science & Engineering (IoT-CS-BCT)** student at **Asansol Engineering College**.
 
-💻 I enjoy building practical software projects and exploring how technology can be used to solve real-world problems.
+💻 I enjoy building practical software projects and developing a strong foundation in programming, problem solving, and software engineering.
 
-🔐 My current interests include **Cybersecurity, Secure Software Development, Artificial Intelligence, IoT, and Software Engineering**.
+🔐 I'm particularly interested in **Cybersecurity, Secure Software Development, Network Security, Artificial Intelligence, IoT, and Full Stack Development**.
 
-🚀 I am continuously improving my skills in **programming, problem solving, Data Structures & Algorithms, web development, and cybersecurity**.
+🚀 I believe in learning by building. My GitHub contains projects that reflect my progress from programming fundamentals to practical cybersecurity applications.
 
-🎯 My goal is to grow into a **strong Software Engineer** capable of designing, developing, testing, and securing real-world applications.
+🎯 My long-term goal is to become a **skilled Software Engineer** who can build reliable, secure, and useful real-world applications.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### Programming & Development
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js&theme=dark" alt="Programming Languages" />
 </p>
 
-### Cybersecurity & Security Tools
+### 🔧 Tools & Technologies
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Suricata-EF2D5E?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata" />
-
-<img src="https://img.shields.io/badge/Bandit-333333?style=for-the-badge&logo=python&logoColor=white" alt="Bandit" />
-
-<img src="https://img.shields.io/badge/Network%20Security-0A66C2?style=for-the-badge&logo=shield&logoColor=white" alt="Network Security" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools and Technologies" />
 </p>
 
-### Currently Learning
+### 🔐 Cybersecurity
 
 <p align="center">
+  <img
+    src="https://img.shields.io/badge/Network%20Security-0A66C2?style=for-the-badge&logo=shield&logoColor=white"
+    alt="Network Security"
+  />
+  <img
+    src="https://img.shields.io/badge/Suricata-EF2D5E?style=for-the-badge&logo=suricata&logoColor=white"
+    alt="Suricata"
+  />
+  <img
+    src="https://img.shields.io/badge/Bandit-333333?style=for-the-badge&logo=python&logoColor=white"
+    alt="Bandit"
+  />
+</p>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-6A5ACD?style=for-the-badge" alt="Artificial Intelligence" />
+### 📚 Currently Learning
 
-<img src="https://img.shields.io/badge/Cybersecurity-Learning-DC143C?style=for-the-badge" alt="Cybersecurity" />
-
-<img src="https://img.shields.io/badge/DSA-In%20Progress-FF8C00?style=for-the-badge" alt="DSA" />
-
-<img src="https://img.shields.io/badge/Full%20Stack-Learning-8A2BE2?style=for-the-badge" alt="Full Stack" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-6A5ACD?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-DC143C?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Improving-FF8C00?style=for-the-badge" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-Learning-8A2BE2?style=for-the-badge" alt="Full Stack Development" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-Here are some of the projects I have built while strengthening my programming, cybersecurity, and software development skills.
+These are some of my current projects, covering programming fundamentals, network analysis, secure coding, and intrusion detection.
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🌐 Basic Network Sniffer
+<h3>🌐 Basic Network Sniffer</h3>
 
-A Python-based educational network sniffer developed as part of my **CodeAlpha Cyber Security Internship**.
+<p>
+A Python-based educational network sniffer developed as part of my
+<strong>CodeAlpha Cyber Security Internship</strong>.
+</p>
 
-The project focuses on **live packet capture, protocol analysis, PCAP inspection, packet filtering, and detailed packet information**.
+<p>
+The project focuses on live packet capture, protocol analysis, PCAP inspection,
+packet filtering, and detailed packet information.
+</p>
 
-### 🔧 Tech Stack
+<strong>Tech Stack</strong>
 
-`Python`
+<p>
+<code>Python</code>
+</p>
 
-### 📌 Key Areas
+<strong>Key Areas</strong>
 
-- Live packet capture
-- Network protocol analysis
-- Packet filtering
-- PCAP inspection
-- Packet details and analysis
-- CSV-based data handling
+<ul>
+  <li>Live packet capture</li>
+  <li>Network protocol analysis</li>
+  <li>Packet filtering</li>
+  <li>PCAP inspection</li>
+  <li>Packet information analysis</li>
+</ul>
 
-🔗 **Repository:**  
+<p>
+🔗 <strong>Repository:</strong><br>
 <a href="https://github.com/SuBhAdEeP1357/CodeAlpha_BasicNetworkSniffer">
 View Project →
 </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔐 Secure Coding Review
+<h3>🔐 Secure Coding Review</h3>
 
-A Python-based **secure coding review and static analysis project** developed for my **CodeAlpha Cyber Security Internship**.
+<p>
+A Python-based secure coding review project developed for my
+<strong>CodeAlpha Cyber Security Internship</strong>.
+</p>
 
-The project focuses on identifying potential security vulnerabilities and applying secure coding practices through automated analysis and regression testing.
+<p>
+The project uses static analysis techniques to identify potential security
+issues and supports secure remediation and regression testing.
+</p>
 
-### 🔧 Tech Stack
+<strong>Tech Stack</strong>
 
-`Python` `Bandit`
+<p>
+<code>Python</code> <code>Bandit</code>
+</p>
 
-### 📌 Key Areas
+<strong>Key Areas</strong>
 
-- Static security analysis
-- Vulnerability identification
-- Secure remediation
-- Regression testing
-- Security-focused code review
+<ul>
+  <li>Static security analysis</li>
+  <li>Vulnerability identification</li>
+  <li>Secure coding practices</li>
+  <li>Security remediation</li>
+  <li>Regression testing</li>
+</ul>
 
-🔗 **Repository:**  
+<p>
+🔗 <strong>Repository:</strong><br>
 <a href="https://github.com/SuBhAdEeP1357/CodeAlpha_SecureCodingReview">
 View Project →
 </a>
+</p>
 
 </td>
 
@@ -144,56 +182,79 @@ View Project →
 
 <td width="50%" valign="top">
 
-## 🛡️ Network Intrusion Detection System
+<h3>🛡️ Network Intrusion Detection System</h3>
 
-A **Suricata-based Network Intrusion Detection System (NIDS)** created as part of my **CodeAlpha Cyber Security Internship**.
+<p>
+A <strong>Suricata-based Network Intrusion Detection System (NIDS)</strong>
+developed as part of my CodeAlpha Cyber Security Internship.
+</p>
 
-The project focuses on network traffic monitoring, custom detection rules, EVE JSON analysis, and automated security testing.
+<p>
+The project explores network traffic monitoring, custom detection rules,
+EVE JSON analysis, and automated testing.
+</p>
 
-### 🔧 Tech Stack
+<strong>Tech Stack</strong>
 
-`Python` `Suricata` `EVE JSON`
+<p>
+<code>Python</code> <code>Suricata</code> <code>EVE JSON</code>
+</p>
 
-### 📌 Key Areas
+<strong>Key Areas</strong>
 
-- Intrusion detection
-- Custom detection rules
-- EVE JSON analysis
-- Network traffic monitoring
-- Automated testing
+<ul>
+  <li>Network intrusion detection</li>
+  <li>Custom detection rules</li>
+  <li>EVE JSON analysis</li>
+  <li>Network traffic monitoring</li>
+  <li>Automated testing</li>
+</ul>
 
-🔗 **Repository:**  
+<p>
+🔗 <strong>Repository:</strong><br>
 <a href="https://github.com/SuBhAdEeP1357/CodeAlpha_NetworkIntrusionDetectionSystem">
 View Project →
 </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧮 Arithmetic Calculator
+<h3>🧮 Arithmetic Calculator</h3>
 
-A menu-driven arithmetic calculator developed in **C** using a modular programming approach.
+<p>
+A menu-driven arithmetic calculator developed in <strong>C</strong> using
+a modular programming approach.
+</p>
 
-This project helped strengthen my understanding of **functions, program structure, user input, arithmetic operations, and modular programming concepts**.
+<p>
+This project focuses on programming fundamentals such as functions,
+user input, arithmetic operations, control flow, and modular design.
+</p>
 
-### 🔧 Tech Stack
+<strong>Tech Stack</strong>
 
-`C`
+<p>
+<code>C</code>
+</p>
 
-### 📌 Key Areas
+<strong>Key Areas</strong>
 
-- Arithmetic operations
-- Modular programming
-- Menu-driven interface
-- Functions
-- User input handling
-- Beginner-friendly C programming
+<ul>
+  <li>Arithmetic operations</li>
+  <li>Functions</li>
+  <li>Menu-driven programming</li>
+  <li>User input handling</li>
+  <li>Modular programming</li>
+</ul>
 
-🔗 **Repository:**  
+<p>
+🔗 <strong>Repository:</strong><br>
 <a href="https://github.com/SuBhAdEeP1357/Arithmetic-Calculator">
 View Project →
 </a>
+</p>
 
 </td>
 
@@ -202,7 +263,7 @@ View Project →
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
@@ -212,20 +273,51 @@ View Project →
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SuBhAdEeP1357&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <a href="https://github.com/SuBhAdEeP1357">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=SuBhAdEeP1357&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+      alt="GitHub Stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SuBhAdEeP1357">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuBhAdEeP1357&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
+
+| Area | Current Focus |
+|---|---|
+| 💻 Software Development | Building practical projects and improving programming fundamentals |
+| 🔐 Cybersecurity | Network security, intrusion detection, and secure coding |
+| 🤖 Artificial Intelligence | Exploring AI concepts and applications |
+| 🧠 DSA | Strengthening problem-solving and algorithmic thinking |
+| 🌐 Full Stack Development | Learning modern web development technologies |
+| 🌍 Open Source | Exploring contribution opportunities |
+
+---
+
+# 🧭 Learning Roadmap
 
 ```text
-Software Development      ███████████████████░░  Learning
-Cybersecurity             ██████████████████░░░  Learning
-Artificial Intelligence   ████████████████░░░░░  Exploring
-Data Structures & Algo    ███████████████░░░░░░  Improving
-Full Stack Development    ██████████████░░░░░░░  Learning
-Open Source               ████████████░░░░░░░░░  Exploring
+Programming Fundamentals
+        ↓
+Problem Solving & DSA
+        ↓
+Software Development
+        ↓
+Web & Full Stack Development
+        ↓
+Cybersecurity & Secure Development
+        ↓
+Artificial Intelligence
+        ↓
+Real-World Projects & Open Source
