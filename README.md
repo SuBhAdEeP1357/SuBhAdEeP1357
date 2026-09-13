@@ -23,7 +23,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## `01` // HELLO, I'M SUBHADEEP
+## `01` HELLO, I'M SUBHADEEP
 
 I'm a **B.Tech Computer Science & Engineering (IoT-CS-BCT)** student at **Asansol Engineering College**, building toward a career in software engineering.
 
@@ -38,7 +38,7 @@ I enjoy turning ideas into practical projects across **web development, programm
 </td>
 <td width="42%" valign="top">
 
-## `02` // QUICK SNAPSHOT
+## `02` QUICK SNAPSHOT
 
 🎓 **B.Tech CSE (IoT-CS-BCT)**  
 🏫 **Asansol Engineering College**  
@@ -55,7 +55,7 @@ I enjoy turning ideas into practical projects across **web development, programm
 
 ---
 
-## `03` // SKILLS
+## `03` SKILLS
 
 ### 💻 Programming
 
@@ -103,7 +103,7 @@ I enjoy turning ideas into practical projects across **web development, programm
 
 ---
 
-## `04` // FEATURED PROJECTS
+## `04` FEATURED PROJECTS
 
 > **REAL PROJECTS • REAL LEARNING • REAL PROGRESS**
 
@@ -184,7 +184,7 @@ A menu-driven calculator built in C to strengthen fundamentals in functions, con
 
 ---
 
-## `05` // ENGINEERING DIRECTION
+## `05` ENGINEERING DIRECTION
 
 <table>
 <tr>
@@ -220,7 +220,7 @@ LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP → REPEAT
 
 ---
 
-## `06` // EDUCATION
+## `06` EDUCATION
 
 ### 🎓 B.Tech in Computer Science & Engineering (IoT-CS-BCT)
 **Asansol Engineering College** • `2022–2026`
@@ -233,7 +233,7 @@ LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP → REPEAT
 
 ---
 
-## `07` // CERTIFICATIONS
+## `07` CERTIFICATIONS
 
 | 🏅 Certification | 🏢 Issuer | 📅 Date |
 |---|---|---|
@@ -243,7 +243,7 @@ LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP → REPEAT
 
 ---
 
-## `08` // GITHUB ACTIVITY
+## `08` GITHUB ACTIVITY
 
 <div align="center">
 
@@ -259,7 +259,7 @@ LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP → REPEAT
 
 ---
 
-## `09` // CURRENT FOCUS
+## `09` CURRENT FOCUS
 
 | Area | Direction |
 |---|---|
@@ -272,7 +272,7 @@ LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP → REPEAT
 
 ---
 
-## `10` // CONNECT
+## `10` CONNECT
 
 <div align="center">
 
