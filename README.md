@@ -249,13 +249,13 @@ LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP → REPEAT
 
 ### Contribution snapshot
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuBhAdEeP1357&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFFFFF&amp;text_color=9CA3AF&amp;icon_color=E50914&amp;include_all_commits=true" width="49%" alt="GitHub statistics">
+**Building consistently. Learning continuously. Improving with every repository.**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuBhAdEeP1357&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFFFFF&amp;text_color=9CA3AF&amp;icon_color=E50914&amp;langs_count=8" width="49%" alt="Top languages">
+<a href="https://github.com/SuBhAdEeP1357?tab=overview">
+  <img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Activity">
+</a>
 
 </div>
-
-> **Note:** These cards are intentionally limited to the two most useful dynamic views. This avoids the broken third-party activity graph that was appearing on the profile.
 
 ---
 
